@@ -2,7 +2,7 @@
   "dependencies": {
     "chalk": "4.1.0",
     "lodash": "4.16.0",
-    "probot": "11.0.0",
+    "probot": "12.1.1",
     "left-pad": "1.3.0"
   },
   "renovate": {
